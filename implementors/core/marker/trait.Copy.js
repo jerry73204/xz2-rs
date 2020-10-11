@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["lzma_sys"] = [{"text":"impl Copy for lzma_options_lzma","synthetic":false,"types":[]}];
+implementors["xz2"] = [{"text":"impl Copy for Action","synthetic":false,"types":[]},{"text":"impl Copy for Status","synthetic":false,"types":[]},{"text":"impl Copy for Check","synthetic":false,"types":[]},{"text":"impl Copy for Mode","synthetic":false,"types":[]},{"text":"impl Copy for MatchFinder","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
